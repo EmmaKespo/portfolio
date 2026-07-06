@@ -1,11 +1,10 @@
 # Emmanuel Ishaku Portfolio Website  
-to showcase my skills  
+for a live preview -> https://emmanuelishaku.vercel.app/
 
 >my contacts
 
 >about me
 
 >my skills
-
 
 >projects
