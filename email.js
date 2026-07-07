@@ -29,7 +29,7 @@
                 alert('Failed to send: ' + result.error);
             }
         } catch (err) {
-            alert('Could not connect to the backend server. Make sure node server.js is running!');
+            alert('Connection timed out. If this is your first test, your free Render backend server might be waking up from sleep. Please wait 30 seconds and try clicking submit again!');
         }
     });
 
