@@ -296,6 +296,9 @@ section{
     max-width: 1200px;
     margin: 0 auto;
 }
+.tools .tools-heading{
+    font-size: 39px;
+}
 
 
 .tools-grid {
